@@ -1,0 +1,67 @@
+* {
+	font-family: 'Calibri', sans-serif;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: royalblue ;
+	size:480px;
+}
+header{
+	background-color: grey;
+	color:pink;
+}
+
+footer{
+	background-color: grey;
+	color:pink;
+}
+h2, h3, h4, h5, h6{
+	 font-variant: italic;
+	 font-weight: bold;
+	margin: 0px;
+	padding: 12px 6px;
+	clear: both;
+}
+
+h1 {
+  
+  text-align: center;
+  font: 36px;
+	clear: both;
+}
+p{
+	text-indent: 1.5em;
+	align-items: stretch;
+	margin:0px;
+	padding:6px;
+}
+img{
+	width:240px;
+	float:right;
+	margin:6px;
+}
+menu{
+background-color: peru;
+text-align:center;
+	word-spacing: 12px;
+}
+span {
+	background-color: yellow;
+	width:120px;
+	text-align:center;
+	padding:12px;
+	margin:12px;
+	
+}
+#wejscie{
+	background-color: navy;
+	color: white;
+	filter: alpha(opacity=50);
+	padding:6px;
+	position: fixed;
+	bottom:0;
+	width: 18%;
+	float:right;
+	left: 82%;
+}
